@@ -1,11 +1,11 @@
 {
-  "name": "simple-node-logger",
+  "name": "versatile-node-logger",
   "version": "0.92.21",
-  "description": "A simple node console and file logger suitable for small, medium and large projects.",
+  "description": "Active fork of simple-node-logger. See some issues? Report it in github and get it resolved.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/darrylwest/simple-node-logger.git"
+    "url": "git://github.com/vijayviji/versatile-node-logger.git"
   },
   "scripts": {
     "test": "grunt testAll"
@@ -43,7 +43,7 @@
     "random-fixture-data": "^2.0.15",
     "time-grunt": "~0.1.1"
   },
-  "author": "darryl.west@raincitysoftware.com",
+  "author": "viji.public@gmail.com",
   "license": "Apache 2.0",
-  "homepage": "https://github.com/darrylwest/simple-node-logger"
+  "homepage": "https://github.com/vijayviji/versatile-node-logger.git"
 }
